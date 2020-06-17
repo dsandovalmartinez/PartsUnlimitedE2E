@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        // Primary key, dude
         public int CategoryId { get; set; }
 
         [Required]
